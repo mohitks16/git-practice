@@ -1,2 +1,3 @@
-console.log("Hello Git") ; 
-console.log("Yeh ek naya feature hai nayi branch mein.");
+console.log("Hello from Main branch directly!"); 
+console.log("Hello from Feature A branch!");
+console.log("Yeh ek naya feature hai nayi branch");
